@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Plugin.DeviceFontSize</id>
+    <version>1.0.0</version>
+    <title>DeviceFontSize Plugin for Xamarin.Forms</title>
+    <authors>Alessandro Del Sole</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/AlessandroDelSole/XamarinDeviceFontSize</projectUrl>
+    <description>This plugin makes it easy to detect if an Android or iOS device have the accessibility fonts enabled and their size, from ExtraSmall to Huge</description>
+    <copyright>Copyright 2020</copyright>
+    <tags>xamarin, windows, ios, android, xamarin.forms, plugin, DeviceFontSize</tags>
+    <repository url="https://github.com/AlessandroDelSole/XamarinDeviceFontSize" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="MonoAndroid9.0" />
+      <group targetFramework="Xamarin.iOS1.0" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid9.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\netstandard1.0\Plugin.DeviceFontSize.dll" target="lib\netstandard1.0\Plugin.DeviceFontSize.dll" />
+    <file src="C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\netstandard2.0\Plugin.DeviceFontSize.dll" target="lib\netstandard2.0\Plugin.DeviceFontSize.dll" />
+    <file src="C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\xamarin.ios10\Plugin.DeviceFontSize.dll" target="lib\xamarinios10\Plugin.DeviceFontSize.dll" />
+    <file src="C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\monoandroid90\Plugin.DeviceFontSize.dll" target="lib\monoandroid90\Plugin.DeviceFontSize.dll" />
+  </files>
+</package>

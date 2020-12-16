@@ -1,0 +1,9 @@
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\xamarin.ios10\Plugin.DeviceFontSize.dll
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\xamarin.ios10\Plugin.DeviceFontSize.pdb
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\optimized\
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\DeviceFontSize.csprojAssemblyReference.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\DeviceFontSize.AssemblyInfoInputs.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\DeviceFontSize.AssemblyInfo.cs
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\DeviceFontSize.csproj.CoreCompileInputs.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\Plugin.DeviceFontSize.dll
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\xamarin.ios10\Plugin.DeviceFontSize.pdb

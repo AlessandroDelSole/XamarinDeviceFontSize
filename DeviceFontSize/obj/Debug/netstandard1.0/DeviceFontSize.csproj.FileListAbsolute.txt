@@ -1,0 +1,9 @@
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\netstandard1.0\Plugin.DeviceFontSize.deps.json
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\netstandard1.0\Plugin.DeviceFontSize.dll
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\bin\Debug\netstandard1.0\Plugin.DeviceFontSize.pdb
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\DeviceFontSize.csprojAssemblyReference.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\DeviceFontSize.AssemblyInfoInputs.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\DeviceFontSize.AssemblyInfo.cs
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\DeviceFontSize.csproj.CoreCompileInputs.cache
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\Plugin.DeviceFontSize.dll
+C:\Users\adelsole\source\repos\DeviceFontSize\DeviceFontSize\obj\Debug\netstandard1.0\Plugin.DeviceFontSize.pdb
